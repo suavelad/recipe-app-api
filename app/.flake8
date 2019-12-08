@@ -1,6 +1,6 @@
 [flake8]
 exvlude  =
-    migrations
-    _pycache_,
+    migrations,
+    __pycache__,
     manage.py,
-    seettings.py 
+    seettings.py
